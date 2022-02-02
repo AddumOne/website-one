@@ -4,7 +4,7 @@
 
 body {
     background: #EFEFEF;
-    font-family: 'adobe clean';
+    font-family: 'adobe clean', sans-serif;
     margin: 0;
 }
 
@@ -26,7 +26,8 @@ body {
 .hero h1, h2 {
     z-index: 2;
     position: relative;
-    background: #FFF;
+    background: red;
+    color: #FFF;
     padding: 6px 24px;
     margin: 0;
     flex: 1 1 auto;
